@@ -1,8 +1,8 @@
-- 👋 Hi, I’m cartoonish
-- 👀 I’m interested in making stuff
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on helping people in anyway
-- 📫 you can reach out to me on telegram @c4rtoonish or discord @c4rtoonish_
+- 👋 Hi, I’m light_beat.
+- 👀 I’m interested in making stuff.
+- 🌱 I’m currently learning html and godot game engine.
+- 💞️ I’m looking to collaborate on helping people in anyway.
+- 📫 you can reach out to me on discord @your_light_beat
 - 😄 Pronouns: he/him 
 
 <!---
