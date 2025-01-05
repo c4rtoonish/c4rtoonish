@@ -1,8 +1,8 @@
-- 👋 Hi, I’m light_beat.
+- 👋 Hi, I’m cartoonish.
 - 👀 I’m interested in making stuff.
-- 🌱 I’m currently learning html and godot game engine.
+- 🌱 I’m currently learning html,javascript & Godot game-engine.
 - 💞️ I’m looking to collaborate on helping people in anyway.
-- 📫 you can reach out to me on discord @your_light_beat
+- 📫 you can reach out to me on discord @c4rtoonish_
 - 😄 Pronouns: he/him 
 
 <!---
