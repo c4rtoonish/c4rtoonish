@@ -1,9 +1,9 @@
 - 👋 Hi, I’m cartoonish.
 - 👀 I’m interested in making stuff.
-- 🌱 I’m currently learning html,javascript & Godot game-engine.
+- 🌱 I’m currently learning python, machine learning & AI , Godot game-engine.
 - 💞️ I’m looking to collaborate on helping people in anyway.
 - 📫 you can reach out to me on discord @c4rtoonish_
-- 😄 Pronouns: he/him 
+- 😄 Pronouns: cell/sheet 
 
 <!---
 c4rtoonish/c4rtoonish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
